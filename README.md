@@ -27,6 +27,7 @@
   
 
 ## Dataset
+This code is mainly to solve binary classification semantic segmentation
 
 Here an example is given by using [Inria Aerial Image Labeling Dataset](https://project.inria.fr/aerialimagelabeling/). and
 
