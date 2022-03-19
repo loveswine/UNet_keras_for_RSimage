@@ -1,11 +1,11 @@
 # U-Net Semantic Segmentation For Remote Sensing Images
 
-| ![](./docs/image.png) | ![](./docs/label.png) | ![](./docs/predict.png) |
+| ![](./image.png) | ![](./label.png) | ![](./predict.png) |
 | :--------------------: | :-------------------: | :---------------------: |
 |         image          |         label         |         predict         |
 
 
-![](./docs/model.png)
+![](./model.png)
 
 
 ## Installation
